@@ -33,7 +33,7 @@ endif;
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Login Below</title>
+	<title>Login Below 2</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 </head>
